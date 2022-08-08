@@ -18,7 +18,7 @@
 <a href="https://twitter.com/nebulaanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nebulaanish" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anish-neupane-978bab185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anish-neupane-978bab185/" height="30" width="40" /></a>
 <a href="https://fb.com/nebulaanish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nebulaanish" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucsvaeibjz9i9ndmtstcnvmq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsvaeibjz9i9ndmtstcnvmq" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSVAEiBJz9I9ndMtsTCnvMQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsvaeibjz9i9ndmtstcnvmq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
