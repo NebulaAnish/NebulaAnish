@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nebulaanish" alt="nebulaanish" /></a> </p>
 
-<a href='nebulaanish.github.io' /> nebulaanish.github.io </a>
+<a href='https://nebulaanish.github.io' /> nebulaanish.github.io </a>
 
 
 - 📫 How to reach me **nebulaanish@gmail.com**
