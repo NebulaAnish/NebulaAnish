@@ -7,7 +7,7 @@
 - Website under construction: <a href='https://nebulaanish.github.io' /> nebulaanish.github.io </a>
 
 
-- 📫 How to reach me **nebulaanish@gmail.com**
+
 
 - ⚡ Fun fact **I game a lot **
 
