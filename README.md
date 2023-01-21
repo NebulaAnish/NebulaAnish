@@ -22,8 +22,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,tailwind,md,c,cpp,git,github,linux,ai,figma,wordpress)](https://skillicons.dev)
-  
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,tailwind,md,c,cpp,git,github,linux,ai,figma)](https://skillicons.dev)
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NebulaAnish&show_icons=true&theme=radical)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nebulaanish&show_icons=true&locale=en&layout=compact" alt="nebulaanish" /></p>
