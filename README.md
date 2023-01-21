@@ -21,7 +21,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- [![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,tailwind,md,c,cpp,git,github,linux,ai,figma,wordpress)](https://skillicons.dev)
+ 
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,tailwind,md,c,cpp,git,github,linux,ai,figma,wordpress)](https://skillicons.dev)
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NebulaAnish&show_icons=true&theme=radical)
 
