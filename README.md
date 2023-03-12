@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  
-[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,tailwind,md,c,cpp,git,github,linux,ai,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,sqlite,js,html,css,git,github)](https://skillicons.dev)
 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
