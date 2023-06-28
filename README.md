@@ -3,10 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebulaanish&label=Profile%20views&color=0e75b6&style=flat" alt="nebulaanish" /> </p>
 
 
-Recent Project: [nebulaanish.pythonanywhere.com](http://nebulaanish.pythonanywhere.com/)
-
-
-
 
 - ⚡ Fun fact **I game a lot **
 
