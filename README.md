@@ -4,7 +4,7 @@
 
 
 
-- ⚡ Fun fact **I game a lot **
+- ⚡ Fascinated by the capabilites of tech and vastness of the universe.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
